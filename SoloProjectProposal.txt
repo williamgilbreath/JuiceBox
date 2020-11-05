@@ -1,0 +1,1 @@
+I am planning to do a website for a juice bar In which users will be able to look at information about the company, send them an email, login, save favorites, order online, create their own juices from an array of ingredients, and favorite certain juices that they like to their account.
